@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "FetLife Age Adder",
+    "name": "Kitty_Shark Fetlife User Identity Enhancer",
     "version": "1.0",
-    "description": "Adds age to usernames in FetLife notifications",
+    "description": "Adds age, gender and role to usernames in FetLife",
     "host_permissions": [
         "https://fetlife.com/*"
     ],
