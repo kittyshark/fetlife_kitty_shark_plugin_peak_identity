@@ -1,12 +1,10 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace;">FetLife User Identity Enhancer</h1>
 
-# FetLife User Identity Enhancer
-
 ### What's This All About?
 
 **FetLife User Identity Enhancer** is a neat little tool for your browser that makes your FetLife experience even better! If you've ever been curious about someone's identity while scrolling through FetLife, this plugin's for you. With just a simple setup, it adds a little hint next to every user's name, letting you know their identity, without you having to click into their profile. It's all about saving you time and making your browsing smoother.
 
-### Why Would I Want This?
+### Why Would I Want This? 
 
 - **Quick Glance**: No need to click on every profile. Get a glimpse of their identity straight away!
 - **Seamless Experience**: It feels like a natural part of FetLife, so there's no learning curve.
