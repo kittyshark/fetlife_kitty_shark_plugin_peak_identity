@@ -29,6 +29,28 @@ Not at all! We've made sure it runs quietly in the background without eating up 
 
 We're always looking to improve. If you have suggestions, issues, or just want to chat about the plugin, reach out by adding issue to this repo C: 
 
+### Local testing 
+
+#### Step 1: Setup the Chrome Extension Files
+Create a new directory for your extension, let's call it **FetLifeUserIdentityEnhancer**.
+
+Within **FetLifeUserIdentityEnhancer**, you'll need the following files:
+
+-manifest.json
+-content.js
+-background.js
+-other
+
+#### Step 2: Load Your Extension into Chrome
+1. Open Chrome and navigate to chrome://extensions/.
+1. Enable "Developer mode".
+1. Click on "Load unpacked" and select your FetLifeAger directory.
+1. You should now see your extension in the list.
+
+Step 3: Test on FetLife
+Navigate to the Notifications page on FetLife.com and you should see ages added next to the usernames.
+
+Remember: Due to the nature of browser extensions, make sure you're always considering user privacy and security. Never store or share data you collect without explicit permission. Also, FetLife's website structure or class names could change, so be prepared to maintain this extension if needed.
 ---
 
 Spread the word and enjoy a smarter FetLife experience! 🌟
