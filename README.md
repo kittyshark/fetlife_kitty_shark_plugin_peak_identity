@@ -18,7 +18,7 @@
 
 Setting up is a breeze! Just follow these simple steps:
 
-1. [Download link or method to add the extension to browser.]
+1. [Download link or method to add the extension to browser will be provided after approving this plugin by fetlife support.]
 2. Navigate to FetLife and voilà! Enjoy your enhanced browsing experience.
 
 ### Will It Slow Down My Browsing?
@@ -27,7 +27,7 @@ Not at all! We've made sure it runs quietly in the background without eating up 
 
 ### Need Help or Have Feedback?
 
-We're always looking to improve. If you have suggestions, issues, or just want to chat about the plugin, reach out! (Provide contact method or link to GitHub Issues)
+We're always looking to improve. If you have suggestions, issues, or just want to chat about the plugin, reach out by adding issue to this repo C: 
 
 ---
 
@@ -35,4 +35,4 @@ Spread the word and enjoy a smarter FetLife experience! 🌟
 
 --- 
 
-Created by [kitty_shark](https://fetlife.com/users/12429798)
+Plugin created by 🐈[kitty_shark](https://fetlife.com/users/12429798)🦈 with lost of love to FetLife.com 🥰
